@@ -1,0 +1,38 @@
+#generalLayout{
+    background-color: #3498DB;
+}
+
+#loginLayout{
+    background-color: #E5E7E9;
+    height: 400;
+    width: 300;
+    border-radius: 10;
+}
+
+#botonLogin{
+    color: white;
+    background-color:#3498DB;
+    border-radius: 100;
+    width: 250;
+}
+
+#textoCentral{
+    font-size: 25;
+    color:#3498DB;
+    text-align: center;
+}
+
+Image{
+    background: #3498DB;
+    width: 100;
+    height: 100;
+    border-radius: 50;
+}
+
+TextField{
+    width: 250;
+    height: 50;
+    border-radius: 100;
+    background-color: white;
+    text-align: center;
+}
